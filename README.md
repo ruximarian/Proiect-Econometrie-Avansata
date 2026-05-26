@@ -106,7 +106,7 @@ Durează aproximativ 2-3 minute. Sunt instalate toate librăriile necesare cu ve
 ```bash
 jupyter notebook
 ```
-Apoi navighează la `ECONOMETRIE_FINAL_GATAAAA.ipynb` și deschide-l.
+Apoi navighează la `Proiect Econometrie Avansata.ipynb` și deschide-l.
 
 ### Pas 5 — Rulează notebook-ul
 
